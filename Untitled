@@ -1,7 +1,0 @@
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      style = "moon",
-      colorscheme = "gruvbox",
-    },
-  },
